@@ -1,0 +1,23 @@
+{
+  "name": "botcms-vk-promo",
+  "version": "0.0.1",
+  "description": "VK promo module for BotCMS",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvoevodskiy/botcms-vk-promo.git"
+  },
+  "author": "mvoevodskiy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mvoevodskiy/botcms-vk-promo/issues"
+  },
+  "homepage": "https://github.com/mvoevodskiy/botcms-vk-promo#readme",
+  "dependencies": {
+    "typeorm": "^0.2.19",
+    "cron": "^1.7.2"
+  }
+}
