@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/mvoevodskiy/botcms-vk-promo#readme",
   "dependencies": {
-    "typeorm": "^0.2.19",
+    "typeorm": "^0.2.25",
     "cron": "^1.7.2"
   }
 }
